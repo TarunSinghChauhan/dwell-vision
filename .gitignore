@@ -3,3 +3,4 @@ __pycache__/
 .pytest_cache/
 *.mp4
 *.pt
+make_gif.py
