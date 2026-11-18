@@ -1,0 +1,8 @@
+supervision>=0.25.0
+trackers
+ultralytics
+opencv-python
+numpy
+pytest
+# Optional, only for --backend roboflow (needs a free Roboflow API key):
+# inference
